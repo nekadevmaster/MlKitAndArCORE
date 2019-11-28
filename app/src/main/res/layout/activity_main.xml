@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/main_textmlkit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text MLKit" />
+
+    <Button
+        android:id="@+id/main_facemlkit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Face MLKit" />
+
+    <Button
+        android:id="@+id/main_arcore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arcore" />
+
+    <Button
+        android:id="@+id/main_arcorecloud"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arcore w cloud" />
+
+    <Button
+        android:id="@+id/main_arcore_customshape"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Arcore w custom shape" />
+
+    <Button
+        android:id="@+id/main_arcore_w_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Arcore w view" />
+
+    <Button
+        android:id="@+id/main_arcore_w_animation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Arcore w animation" />
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232693719261",
+    "firebase_url": "https://mlkit-tutorial-12658.firebaseio.com",
+    "project_id": "mlkit-tutorial-12658",
+    "storage_bucket": "mlkit-tutorial-12658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232693719261:android:b7a48e0741f8783ba9bb34",
+        "android_client_info": {
+          "package_name": "com.triare.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232693719261-iag7r9hfvines34du2m824676c8r3960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCURY1trS96h65uw0b2hPagXTU1JQ9RPQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232693719261-iag7r9hfvines34du2m824676c8r3960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
